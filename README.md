@@ -1,4 +1,5 @@
 # My Tasks 📋
+### 👨‍💻 Created by: Netram Thakkar
 
 A simple task manager built with **React Native**  **Expo**. Add tasks, get reminded via local notifications & manage them with basic animations and async storage.
 

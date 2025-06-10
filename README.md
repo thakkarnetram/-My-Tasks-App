@@ -6,7 +6,7 @@ A simple task manager built with **React Native**  **Expo**. Add tasks, get remi
 
 ## Demo
 
-https://github.com/user-attachments/assets/685337f8-5237-4192-a3cb-c2e1e5c07e98
+https://github.com/user-attachments/assets/1382a7b1-15cd-4230-87ea-639f0947881c
 
 > If the video doesn't play, [click here to view it directly](assets/demo.mp4).
 ---

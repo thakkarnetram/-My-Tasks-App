@@ -6,7 +6,7 @@ A simple task manager built with **React Native**  **Expo**. Add tasks, get remi
 
 ## Demo
 
-<video src="assets/demo.mp4" controls width="100%" style="max-width: 500px;">
+<video src="assets/demo.mp4" controls width="100%" style="max-width: 500px; max-height: 500px">
   Unsupported browser 
 </video>
 
